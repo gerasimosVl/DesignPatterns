@@ -1,6 +1,7 @@
 # DesignPatterns using Strategy pattern
 coding bootcamp project<br/>
-A product named T-Shirt that has three (3)variations, in terms of,1.Color, {RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET}<br/>
+A product named T-Shirt that has three (3)variations, in terms of<br/>
+1.Color, {RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET}<br/>
 2.Size, {XS, S,M,L, XL, XXL, XXXL}<br/>
 3.Fabric,  {WOOL, COTTON,  POLYESTER,  RAYON,  LINEN,  CASHMERE,  SILK}<br/>
 Each variation gets a different price tag. Also,each product can be paid via three (3) different payment methods,<br/>
