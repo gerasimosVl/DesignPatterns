@@ -1,4 +1,4 @@
-# DesignPatterns using Strategy pattern
+# DesignPatterns using Strategy pattern (console app)
 coding bootcamp project<br/>
 A product named T-Shirt that has three (3)variations, in terms of<br/>
 1.Color, {RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET}<br/>
